@@ -1,1 +1,1 @@
-# demos_ml_associations
+# Association rules example with mlxtend
